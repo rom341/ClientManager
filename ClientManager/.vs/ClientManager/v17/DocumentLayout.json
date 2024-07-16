@@ -1,12 +1,87 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\C#\\ClientManager\\ClientManager\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2318810E-5278-4E2E-8FA1-71DA220E3119}|ClientManager\\ClientManager.csproj|d:\\projects\\c#\\clientmanager\\clientmanager\\clientmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2318810E-5278-4E2E-8FA1-71DA220E3119}|ClientManager\\ClientManager.csproj|solutionrelative:clientmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2318810E-5278-4E2E-8FA1-71DA220E3119}|ClientManager\\ClientManager.csproj|d:\\projects\\c#\\clientmanager\\clientmanager\\clientmanager\\migrations\\20240716145703_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2318810E-5278-4E2E-8FA1-71DA220E3119}|ClientManager\\ClientManager.csproj|solutionrelative:clientmanager\\migrations\\20240716145703_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2318810E-5278-4E2E-8FA1-71DA220E3119}|ClientManager\\ClientManager.csproj|d:\\projects\\c#\\clientmanager\\clientmanager\\clientmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2318810E-5278-4E2E-8FA1-71DA220E3119}|ClientManager\\ClientManager.csproj|solutionrelative:clientmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2318810E-5278-4E2E-8FA1-71DA220E3119}|ClientManager\\ClientManager.csproj|d:\\projects\\c#\\clientmanager\\clientmanager\\clientmanager\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2318810E-5278-4E2E-8FA1-71DA220E3119}|ClientManager\\ClientManager.csproj|solutionrelative:clientmanager\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240716145703_Initial.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ClientManager\\ClientManager\\ClientManager\\Migrations\\20240716145703_Initial.cs",
+              "RelativeDocumentMoniker": "ClientManager\\Migrations\\20240716145703_Initial.cs",
+              "ToolTip": "D:\\Projects\\C#\\ClientManager\\ClientManager\\ClientManager\\Migrations\\20240716145703_Initial.cs",
+              "RelativeToolTip": "ClientManager\\Migrations\\20240716145703_Initial.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAQwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:00:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\C#\\ClientManager\\ClientManager\\ClientManager\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientManager\\appsettings.json",
+              "ToolTip": "D:\\Projects\\C#\\ClientManager\\ClientManager\\ClientManager\\appsettings.json",
+              "RelativeToolTip": "ClientManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T14:22:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ClientManager\\ClientManager\\ClientManager\\Program.cs",
+              "RelativeDocumentMoniker": "ClientManager\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\ClientManager\\ClientManager\\ClientManager\\Program.cs",
+              "RelativeToolTip": "ClientManager\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:19:33.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ClientManager\\ClientManager\\ClientManager\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ClientManager\\Data\\DataContext.cs",
+              "ToolTip": "D:\\Projects\\C#\\ClientManager\\ClientManager\\ClientManager\\Data\\DataContext.cs",
+              "RelativeToolTip": "ClientManager\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:16:53.573Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
